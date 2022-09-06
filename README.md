@@ -2,6 +2,7 @@
 
 <div align="center">
 <h1><strong>Welcome to My World !!! </strong></h1>
+  <hr>
 <img src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif">
 </br></br>
 <hr>

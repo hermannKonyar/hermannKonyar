@@ -1,6 +1,6 @@
 
 
-<center><img src="https://c.tenor.com/FaxBiJNTMusAAAAC/robert-downey-jr-tony-stark.gif"></center>
+<div align="center"><img src="https://c.tenor.com/FaxBiJNTMusAAAAC/robert-downey-jr-tony-stark.gif"></div>
 <h1> Welcome to My World !!!</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermannKonyar&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

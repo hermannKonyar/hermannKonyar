@@ -4,7 +4,7 @@
 <h1><strong>Welcome to My World !!! </strong></h1>
 <img src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif">
 </br></br>
-</hr>
+<hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermannKonyar&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 

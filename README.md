@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="[https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gifv](https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif)">
+<img src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif">
 <img src="https://c.tenor.com/FaxBiJNTMusAAAAC/robert-downey-jr-tony-stark.gif">
 <h1> Welcome to My World !!!</h1>
 

@@ -2,7 +2,6 @@
 
 <div align="center">
 <img src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif">
-<img src="https://c.tenor.com/FaxBiJNTMusAAAAC/robert-downey-jr-tony-stark.gif">
 <h1> Welcome to My World !!!</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermannKonyar&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

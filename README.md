@@ -2,11 +2,12 @@
 
 <div align="center">
 <h1><strong>Welcome to My World  </strong></h1>
+  <h1 align="center">Hi 👋, I'm Erman Konyar</h1>
+<h3 align="center">A passionate Software Engineer from Turkey</h3>
 <img src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif">
 </br></br>
 
-<h1 align="center">Hi 👋, I'm Erman Konyar</h1>
-<h3 align="center">A passionate Software Engineer from Turkey</h3>
+
 
 - 📫 How to reach me **er.konyar@gmail.com**
 

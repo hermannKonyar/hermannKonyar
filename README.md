@@ -18,7 +18,9 @@
   <img src="https://www.dunyahalleri.com/wp-content/uploads/2018/08/ee6f84623911facecb0564d80d845728-990x556.jpg">
 </div>
 </div>
-- 📫 How to reach me **er.konyar@gmail.com**
+
+<br>
+                                                 - 📫 How to reach me **er.konyar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

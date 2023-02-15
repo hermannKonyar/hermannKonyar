@@ -7,7 +7,7 @@
 <img src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif">
 </br></br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hc3XIbUuTMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <div>
   <img src="https://www.dunyahalleri.com/wp-content/uploads/2018/08/ee6f84623911facecb0564d80d845728-990x556.jpg">

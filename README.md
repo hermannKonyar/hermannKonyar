@@ -14,13 +14,13 @@
 </div>
 
 </br></br>
-<div aling="left">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermannKonyar&show_icons=true)
- </div>
-<div aling="right">
+ 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermannKonyar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 
 <br>
                                                  - 📫 How to reach me ##er.konyar@gmail.com##

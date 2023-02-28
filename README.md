@@ -10,13 +10,13 @@
   <h1 align="center">I'm Erman Konyar</h1>
 <h3 align="center">A passionate Engineer from Turkey</h3>
 
-</br></br>
 
 
 
 
 
-</br></br>
+
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermannKonyar&show_icons=true)
  

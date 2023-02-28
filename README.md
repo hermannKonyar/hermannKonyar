@@ -3,7 +3,7 @@
 <div align="center">
 <h1><strong>Welcome to My World  </strong></h1>
   
-  <iframe src="https://giphy.com/embed/5bGYUuT3VEVLa" width="480" height="198" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iron-man-tony-stark-ovaries-5bGYUuT3VEVLa">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/5bGYUuT3VEVLa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iron-man-tony-stark-ovaries-5bGYUuT3VEVLa">via GIPHY</a></p>
   </br>
   
   

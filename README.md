@@ -14,9 +14,7 @@
 
 
 
-<div>
-  <img src="https://www.dunyahalleri.com/wp-content/uploads/2018/08/ee6f84623911facecb0564d80d845728-990x556.jpg">
-</div>
+
 
 </br></br>
 

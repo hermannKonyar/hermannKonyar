@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1><strong>Welcome to My World  </strong></h1>
-  <img src="[https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhOTk0ZTA1MWZkM2UyMjJmYjNjYjdlMjJhMzBiNjVmNTI5OGUwZCZjdD1n/AbYxDs20DECQw/giphy.gif)">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhOTk0ZTA1MWZkM2UyMjJmYjNjYjdlMjJhMzBiNjVmNTI5OGUwZCZjdD1n/AbYxDs20DECQw/giphy.gif">
   
   </br>
   

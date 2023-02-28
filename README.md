@@ -7,7 +7,7 @@
   </br>
   
   
-  <h1 align="center">Hi 👋, I'm Erman Konyar</h1>
+  <h1 align="center">I'm Erman Konyar</h1>
 <h3 align="center">A passionate Engineer from Turkey</h3>
 <img src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif">
 </br></br>

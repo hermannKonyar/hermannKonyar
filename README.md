@@ -15,8 +15,9 @@
 
 
 
-
+![](https://komarev.com/ghpvc/?username=hermannKonyar&color=blue)
 </br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermannKonyar&show_icons=true)
  

@@ -3,7 +3,7 @@
 <div align="center">
 
   
-  ![AdmirableBrownAmmonite-size_restricted](https://github.com/hermannKonyar/hermannKonyar/assets/58660686/d72ccb64-63af-4179-865a-f5b44b6d5e1b)
+  
 
   <h1><strong>Welcome to My World  </strong></h1>
 
